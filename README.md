@@ -1,4 +1,4 @@
-# Test task for AmoPoint 03.09.24
+# Тестовое задание для AmoPoint 03.09.24
 
 # Download:
 git clone https://github.com/mooyc/TestTask_1.git
