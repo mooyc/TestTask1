@@ -1,0 +1,34 @@
+* { 
+	font-family: Tahoma ; 
+}
+
+.box {
+	display: flex;
+}
+
+.main-form {
+	margin: 2.25em;
+}
+
+.output-form {
+	margin: 2.25em;
+}
+
+.main-btn-submit {
+	margin-top: 1em;
+}
+
+.main-status {
+	display: flex;
+	margin-top: 1em;
+}
+
+.main-status_indicator {
+	width: 20px;
+	height: 20px;
+	border-radius: 13px;
+
+	margin: 0px 5px;
+	background-color: red;
+}
+
