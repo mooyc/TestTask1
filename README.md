@@ -1,8 +1,7 @@
 # Test task for AmoPoint 03.09.24
 
 # Download:
-
-# git clone https://github.com/mooyc/TestTask_1.git
+git clone https://github.com/mooyc/TestTask_1.git
 
 # Exercise:
 Напишите скрипт, который загружает файл .txt  и сохраняет в папке files в корне проекта. Результат загрузки должен выводиться ниже окна загрузки и представлять собой зеленый либо красный круг в соответствии с успешной загрузкой или ошибкой.
